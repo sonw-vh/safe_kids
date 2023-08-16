@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>26954900915-b7bmb0lnc42bqpa59smuakngl6moiaqs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.26954900915-b7bmb0lnc42bqpa59smuakngl6moiaqs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAHLpheeRPOrToDF-BJuEhfG_xUaWRE_5M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>26954900915</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.parentalControl.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>times-up-flutter-admin-8e432</string>
+	<key>STORAGE_BUCKET</key>
+	<string>times-up-flutter-admin-8e432.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:26954900915:ios:44bd6700a3af86d64417c6</string>
+</dict>
+</plist>

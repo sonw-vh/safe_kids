@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "26954900915",
+    "project_id": "times-up-flutter-admin-8e432",
+    "storage_bucket": "times-up-flutter-admin-8e432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26954900915:android:b21e6b3f2a8d37974417c6",
+        "android_client_info": {
+          "package_name": "com.example.parental_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26954900915-le84o3ng83oe2iuht7039k87k2ogd62j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJqwgFptVjPNS5Pn9z6LU2UnxCx7rZ7T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26954900915-le84o3ng83oe2iuht7039k87k2ogd62j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26954900915:android:59d7f8ccca0dd2d74417c6",
+        "android_client_info": {
+          "package_name": "parental_control.parental_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26954900915-le84o3ng83oe2iuht7039k87k2ogd62j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJqwgFptVjPNS5Pn9z6LU2UnxCx7rZ7T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26954900915-le84o3ng83oe2iuht7039k87k2ogd62j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
